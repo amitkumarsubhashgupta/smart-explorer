@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "332710921765",
+    "project_id": "smart-explorer-24268",
+    "database_url": "https://smart-explorer-24268-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "storage_bucket": "smart-explorer-24268.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332710921765:android:72f9d5be3868270f053f55",
+        "android_client_info": {
+          "package_name": "com.aistudio.smartexplorer.krzpx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh5F2-WstNCqoibt8PBCcIVc3MbnTVx40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

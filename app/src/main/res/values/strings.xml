@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smart Explorer</string>
+    <string name="default_notification_channel_id">smart_explorer_alerts</string>
+</resources>

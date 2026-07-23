@@ -1,0 +1,6 @@
+{
+  "name": "Smart Explorer",
+  "description": "Explore Everything in One App. Weather, news, translation, country facts, and more in a premium Material 3 experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
